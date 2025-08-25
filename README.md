@@ -49,7 +49,7 @@ Construção de páginas responsivas para diferentes dispositivos
 
 Aperfeiçoamento em estilizações avançadas com CSS
 ---
-✅ Status do Projeto
+Status do Projeto
 
 Em andamento – o repositório será atualizado constantemente conforme novas práticas forem aprendidas e aplicadas.
 
